@@ -1,2 +1,3 @@
 # my-project
-my course exercises
+this repository contained my assginment 3 IT
+Name- sasindu peiris
